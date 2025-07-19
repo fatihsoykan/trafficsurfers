@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -97,3 +97,136 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/Mobile Games Bundle.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Artwork.png
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Artwork.png.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/MUSIC.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/MUSIC/MUSC_Ambient_Cool_Loop_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/MUSIC/MUSC_Ambient_Cool_Loop_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/MUSIC/MUSC_Cute_Menu_Loop_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/MUSIC/MUSC_Cute_Menu_Loop_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Buy_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Buy_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Crispy_Close_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Crispy_Close_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Crispy_Open_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Crispy_Open_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Close_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Close_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Close_2.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Close_2.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Generic_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Generic_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Open_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Liquid_Open_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Select_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Click/SFX_UI_Click_Select_1.wav.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Countdown.meta
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Countdown/SFX_Countdown_End_Fail_1.wav
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/AUDIO/SFX/Countdown/SFX_Countdown_End_Fail_1.wav.meta
+*.meta
+*.wav
+*.png
+*.shadersubgraph
+*.json
+*.shadergraph
+Packages/com.occasoftware.super-simple-skybox/Shaders/HLSL/SuperSimpleSkyboxHLSL.hlsl
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Scripts/OnSunriseSunsetDemo.cs
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Scripts/OccaSoftware.SuperSimpleSkybox.Demo.asmdef
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Materials/SuperSimpleSkybox.mat
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Materials/SphereMaterial_Reflective.mat
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Materials/SphereMaterial_Diffuse.mat
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Materials/PlaneMaterial.mat
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/SkyboxLightingSettings.lighting
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/Skybox_P/ReflectionProbe-1.exr
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/Skybox_P/ReflectionProbe-0.exr
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/Skybox_P/Post-process Volume Profile.asset
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/Skybox_P/LightingData.asset
+Packages/com.occasoftware.super-simple-skybox/Samples/Demo/Levels/Skybox_P.unity
+Packages/com.occasoftware.super-simple-skybox/Runtime/XR/VRSkybox.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/SunStatic.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/Sun.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/SetStarRotation.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/MoonStatic.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/Moon.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/SkyObjects/DirectionalLight.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/ShaderParams.cs
+Packages/com.occasoftware.super-simple-skybox/Runtime/OccaSoftware.SuperSimpleSkybox.Runtime.asmdef
+Packages/com.occasoftware.super-simple-skybox/README.pdf
+Packages/com.occasoftware.super-simple-skybox/LICENSE.md
+Packages/com.occasoftware.super-simple-skybox/Editor/SkyboxEditorGUI.cs
+Packages/com.occasoftware.super-simple-skybox/Editor/OccaSoftware.SuperSimpleSkybox.Editor.asmdef
+Packages/com.occasoftware.super-simple-skybox/CHANGELOG.md
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.2/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Word Puzzle Games Sound Effects and Music Pack/Music Preview.mp3
+Assets/Mobile Games Bundle/Word Puzzle Games Sound Effects and Music Pack/Sound Effects and Stingers Preview.mp3
+Assets/Mobile Games Bundle/Word Puzzle Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Word Puzzle Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Zen Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Zen Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Packages/ProjectOrganizer/Editor/ProjectFolderGenerator.cs
+Assets/Packages/ProjectOrganizer/License.txt
+Assets/Packages/ProjectOrganizer/ProjectOrganizerConfig.cs
+Assets/Packages/ProjectOrganizer/README.txt
+Assets/proTools/proFolder/Editor/Scripts/FolderData.cs
+Assets/proTools/proFolder/Editor/Scripts/FolderDataManager.cs
+Assets/proTools/proFolder/Editor/Scripts/MarkerLibrary.cs
+Assets/proTools/proFolder/Editor/Scripts/proFolder.cs
+Assets/proTools/proFolder/Editor/Scripts/proFolderEditor.cs
+Assets/proTools/proFolder/Editor/Scripts/proFolderEditorWindow.cs
+Assets/proTools/proFolder/proFolder_UserGuide.pdf
+Assets/proTools/proFolder/SO/MarkerLibrary.asset
+Assets/Readme.asset
+Assets/Scenes/SampleScene.unity
+Assets/Settings/DefaultVolumeProfile.asset
+Assets/Settings/Mobile_Renderer.asset
+Assets/Settings/Mobile_RPAsset.asset
+Assets/Settings/PC_Renderer.asset
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/SampleSceneProfile.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+Assets/TutorialInfo/Layout.wlt
+Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Assets/TutorialInfo/Scripts/Readme.cs
+Assets/InputSystem_Actions.inputactions
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Music Preview.mp3
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Sound Effects and Stingers Preview.mp3
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/3D Match Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Beauty Games Sound Effects and Music Pack/Music Preview.mp3
+Assets/Mobile Games Bundle/Beauty Games Sound Effects and Music Pack/Sound Effects and Stingers Preview.mp3
+Assets/Mobile Games Bundle/Beauty Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Beauty Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Card&Board SFX and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Card&Board SFX and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Casual Fun Music Pack/Artwork.webp
+Assets/Mobile Games Bundle/Casual Fun Music Pack/Package Promotion.pdf
+Assets/Mobile Games Bundle/Casual Fun Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Casual Fun Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Christmas Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Christmas Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Cute Casual Games Music Pack/Music Preview.mp3
+Assets/Mobile Games Bundle/Cute Casual Games Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Cute Casual Games Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Cute UI _ Interact Sound Effects Pack/Sound List.docx
+Assets/Mobile Games Bundle/Cute UI _ Interact Sound Effects Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Cute UI _ Interact Sound Effects Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Match 3 Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Match 3 Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Merge Games Sound Effects and Music Pack/AUDIO/SFX/Merge/Rising_Tone/ReadMe.docx
+Assets/Mobile Games Bundle/Merge Games Sound Effects and Music Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Merge Games Sound Effects and Music Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Mini Games Music and Sound Effects Pack/Package Promotion.pdf
+Assets/Mobile Games Bundle/Mini Games Music and Sound Effects Pack/Sound List.pdf
+Assets/Mobile Games Bundle/Mini Games Music and Sound Effects Pack/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.1/Music Preview.mp3
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.1/Sound Effects and Stingers Preview.mp3
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.1/Sound List.pdf
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.1/Sound Pack Guide.pdf
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.2/Music Preview.mp3
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.2/Sound Effects and Stingers Preview.mp3
+Assets/Mobile Games Bundle/Runner Games Sound Effects and Music Pack Vol.2/Sound List.pdf
